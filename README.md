@@ -2,7 +2,7 @@
 
 Provides authentication functionality ; currently supported adapters are:
 
-- CAS via https://www.apereo.org/projects/cas
+- CAS via [CAS](https://www.apereo.org/projects/cas)
 - SQL tables via the [PDO](http://php.net/pdo) extension
 - LDAP  via the [ldap](http://php.net/ldap) extension
 - OAuth via customized adapters
